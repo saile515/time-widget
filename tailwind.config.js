@@ -5,6 +5,8 @@ module.exports = {
 		extend: {
 			fontFamily: {
 				rounded: ["Nunito"],
+				mono: ["monospace"],
+				menlo: ["Menlo-Regular"],
 			},
 		},
 	},
